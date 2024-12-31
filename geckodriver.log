@@ -1,0 +1,24 @@
+1735604438787	geckodriver	INFO	Listening on 127.0.0.1:55704
+1735604441938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Zen Browser\\zen.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileKhvGi0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735604443100	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735604443424	Marionette	INFO	Listening on port 55755
+Read port: 55755
+1735604707916	geckodriver	INFO	Listening on 127.0.0.1:59745
+1735604710925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Zen Browser\\zen.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileAax4aT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735604712178	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735604712450	Marionette	INFO	Listening on port 59785
+Read port: 59785
+1735605792153	geckodriver	INFO	Listening on 127.0.0.1:63755
+1735605795187	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Zen Browser\\zen.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile4eStmG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735605796015	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735605796787	Marionette	INFO	Listening on port 63775
+Read port: 63775

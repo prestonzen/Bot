@@ -1,0 +1,28 @@
+1735605676373	geckodriver	INFO	Listening on 127.0.0.1:63420
+1735605679426	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Zen Browser\\zen.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile9G3lrB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735605680372	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735605680858	Marionette	INFO	Listening on port 63438
+Read port: 63438
+1735605681056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.info: "[ZenThemesImporter]: Initializing Zen Themes Importer"
+console.info: "[ZenThemesImporter]: Zen Themes imported"
+console.error: "Error loading shortcuts file" (new NotFoundError("Could not open `C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile9G3lrB\\zen-keyboard-shortcuts.json': file does not exist (NS_ERROR_FILE_NOT_FOUND)", (void 0)))
+console.info: "Zen CKS: Migrating shortcuts from version" 0 "to" 3
+console.info: "Zen CKS: Loading default shortcuts..."
+console.info: "Zen CKS: Loading default shortcuts..."
+console.debug: "Shortcuts applied..."
+console.info: "Zen CKS: Initialized"
+console.info: "\n\n    Welcome to Zen Browser!\n\n  If you are seeing this message, it means that you have successfully opened Zen's developer console.\n  Here you can see all the logs and errors that Zen is generating.\n\n  If you have any questions or need help, please contact us in any media in https://zen-browser.app/\n\n  Note: This developer console is not the same as the browser console, it has access to Zen's internal functions and variables, including your passwords and other sensitive information. Please do not paste any code here unless you know what you are doing.\n\n  "
+console.info: "ZenThemeModifier: init browser layout"
+console.log: "ZenPinnedTabsStorage: Initializing..."
+console.log: "ZenWorkspacesStorage: Initializing..."
+console.log: "[ZenThemesImporter]: No enabled Zen themes."
+console.error: ({})
+console.info: "ZenWorkspaces: ZenWorkspaces initialized"
+console.info: "Initializing welcome pages..."
+console.info: "Welcome pages initialized."
+1735605687760	Marionette	INFO	Stopped listening on port 63438
+Dynamically enable window occlusion 1

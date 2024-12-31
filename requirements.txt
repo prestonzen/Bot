@@ -1,0 +1,5 @@
+requests==2.21.0
+beautifulsoup4==4.8.0
+#selenium==3.14.1
+selenium
+art
