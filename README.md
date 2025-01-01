@@ -89,7 +89,7 @@ pip install -r requirements.txt
 
 1. **Run** the script:
    ```bash
-   python aptb.py
+   python autoProxyTrafficBoosterTurbo.py
    ```
 2. **Enter Target URL** when prompted (defaults to `https://10anime.com` or any you choose).
 3. **Set Timeout & Stay Times** as desired, or press Enter for the defaults (3 minutes each).
